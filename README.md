@@ -1,4 +1,4 @@
-Django Backend : Full stack App note : Emberjs +  DJango + Token Authentification
+Django Backend : Full stack App note : Emberjs +  Django + Token Authentication
 
 Backend Demo : login : joe , password : joe
 
